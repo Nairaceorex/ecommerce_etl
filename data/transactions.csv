@@ -1,0 +1,1001 @@
+transaction_id,product_name,category,price,quantity,transaction_date
+1,Monitor,Gadgets,1091.49,7,2024-04-08 00:00:00
+2,Monitor,Office Supplies,723.27,2,2024-06-06 00:00:00
+3,Smartphone,Office Supplies,1190.98,2,2024-02-09 00:00:00
+4,Mouse,Accessories,1331.69,2,2024-08-08 00:00:00
+5,Keyboard,Office Supplies,862.12,4,2024-03-20 00:00:00
+6,Camera,Accessories,897.78,9,2024-07-29 00:00:00
+7,Monitor,Accessories,365.11,2,2024-06-07 00:00:00
+8,Laptop,Gadgets,22.7,3,2024-08-29 00:00:00
+9,Camera,Office Supplies,705.39,7,2024-04-08 00:00:00
+10,Camera,Accessories,1262.25,1,2024-07-25 00:00:00
+11,Keyboard,Accessories,732.77,7,2024-02-06 00:00:00
+12,Smartwatch,Accessories,209.25,9,2024-03-14 00:00:00
+13,Tablet,Accessories,730.46,10,2024-08-07 00:00:00
+14,Keyboard,Gadgets,1285.0,6,2024-06-10 00:00:00
+15,Monitor,Accessories,953.16,10,2024-01-10 00:00:00
+16,Headphones,Office Supplies,1293.88,2,2024-07-30 00:00:00
+17,Keyboard,Electronics,226.58,10,2024-02-18 00:00:00
+18,Monitor,Gadgets,342.7,9,2024-03-09 00:00:00
+19,Monitor,Office Supplies,1398.9,8,2024-01-29 00:00:00
+20,Printer,Accessories,1329.18,3,2024-04-21 00:00:00
+21,Keyboard,Accessories,653.78,1,2024-08-28 00:00:00
+22,Mouse,Electronics,269.82,3,2024-03-19 00:00:00
+23,Smartwatch,Gadgets,1283.57,2,2024-08-16 00:00:00
+24,Printer,Office Supplies,760.62,4,2024-01-11 00:00:00
+25,Mouse,Electronics,881.37,8,2024-01-20 00:00:00
+26,Mouse,Gadgets,1365.84,8,2024-09-01 00:00:00
+27,Camera,Accessories,759.8,9,2024-03-04 00:00:00
+28,Headphones,Accessories,552.65,1,2024-07-23 00:00:00
+29,Smartphone,Office Supplies,200.2,9,2024-01-01 00:00:00
+30,Smartphone,Gadgets,140.74,9,2024-08-08 00:00:00
+31,Monitor,Accessories,180.89,5,2024-05-21 00:00:00
+32,Printer,Gadgets,249.03,5,2024-08-20 00:00:00
+33,Mouse,Electronics,162.69,6,2024-03-07 00:00:00
+34,Tablet,Electronics,1358.37,4,2024-08-18 00:00:00
+35,Smartwatch,Accessories,1218.88,1,2024-07-07 00:00:00
+36,Tablet,Electronics,74.58,9,2024-05-07 00:00:00
+37,Tablet,Electronics,538.02,2,2024-03-17 00:00:00
+38,Keyboard,Accessories,1297.7,7,2024-08-16 00:00:00
+39,Monitor,Gadgets,74.15,5,2024-08-15 00:00:00
+40,Printer,Gadgets,463.67,6,2024-02-27 00:00:00
+41,Printer,Gadgets,645.85,7,2024-05-09 00:00:00
+42,Keyboard,Accessories,101.8,8,2024-02-02 00:00:00
+43,Camera,Electronics,179.88,5,2024-08-17 00:00:00
+44,Mouse,Accessories,824.65,2,2024-06-18 00:00:00
+45,Camera,Office Supplies,252.3,10,2024-04-25 00:00:00
+46,Headphones,Gadgets,1041.74,4,2024-05-14 00:00:00
+47,Smartphone,Accessories,443.17,9,2024-01-24 00:00:00
+48,Tablet,Electronics,1468.96,2,2024-03-12 00:00:00
+49,Printer,Office Supplies,1163.61,3,2024-08-21 00:00:00
+50,Monitor,Office Supplies,665.8,3,2024-04-01 00:00:00
+51,Monitor,Electronics,1038.11,8,2024-07-28 00:00:00
+52,Tablet,Electronics,443.99,10,2024-05-11 00:00:00
+53,Mouse,Office Supplies,675.14,5,2024-02-12 00:00:00
+54,Monitor,Office Supplies,1263.6,4,2024-06-22 00:00:00
+55,Printer,Electronics,1253.05,9,2024-07-03 00:00:00
+56,Camera,Office Supplies,1052.25,5,2024-03-19 00:00:00
+57,Headphones,Electronics,617.22,10,2024-01-09 00:00:00
+58,Headphones,Accessories,694.17,1,2024-08-11 00:00:00
+59,Tablet,Gadgets,292.08,8,2024-08-12 00:00:00
+60,Keyboard,Gadgets,362.96,4,2024-08-02 00:00:00
+61,Laptop,Office Supplies,790.83,5,2024-05-05 00:00:00
+62,Smartphone,Accessories,1104.61,5,2024-02-22 00:00:00
+63,Laptop,Accessories,1234.24,1,2024-07-12 00:00:00
+64,Keyboard,Gadgets,1322.28,9,2024-07-17 00:00:00
+65,Camera,Electronics,575.23,6,2024-02-07 00:00:00
+66,Smartphone,Office Supplies,1017.89,8,2024-07-04 00:00:00
+67,Printer,Office Supplies,363.44,7,2024-06-16 00:00:00
+68,Keyboard,Accessories,644.12,2,2024-03-25 00:00:00
+69,Smartphone,Accessories,1470.57,8,2024-07-08 00:00:00
+70,Headphones,Gadgets,807.14,5,2024-05-08 00:00:00
+71,Smartphone,Electronics,239.49,6,2024-03-14 00:00:00
+72,Tablet,Accessories,1124.23,1,2024-04-08 00:00:00
+73,Smartphone,Office Supplies,1381.31,5,2024-01-07 00:00:00
+74,Keyboard,Electronics,1330.07,4,2024-09-01 00:00:00
+75,Laptop,Electronics,1033.07,6,2024-08-15 00:00:00
+76,Laptop,Gadgets,1422.21,10,2024-06-14 00:00:00
+77,Mouse,Office Supplies,1461.54,1,2024-05-25 00:00:00
+78,Headphones,Accessories,744.28,5,2024-02-15 00:00:00
+79,Laptop,Office Supplies,914.32,5,2024-06-15 00:00:00
+80,Mouse,Office Supplies,803.55,9,2024-08-21 00:00:00
+81,Laptop,Office Supplies,561.91,3,2024-05-30 00:00:00
+82,Monitor,Accessories,1056.44,8,2024-07-18 00:00:00
+83,Smartwatch,Gadgets,181.21,10,2024-01-29 00:00:00
+84,Keyboard,Electronics,126.2,7,2024-05-09 00:00:00
+85,Smartwatch,Electronics,1236.17,10,2024-06-02 00:00:00
+86,Tablet,Office Supplies,304.7,2,2024-06-13 00:00:00
+87,Laptop,Electronics,650.0,9,2024-02-19 00:00:00
+88,Smartwatch,Office Supplies,94.23,1,2024-04-04 00:00:00
+89,Laptop,Electronics,104.35,3,2024-08-25 00:00:00
+90,Mouse,Office Supplies,1124.9,4,2024-04-29 00:00:00
+91,Printer,Accessories,170.76,4,2024-01-21 00:00:00
+92,Tablet,Accessories,451.37,6,2024-07-14 00:00:00
+93,Laptop,Electronics,813.3,10,2024-04-11 00:00:00
+94,Monitor,Gadgets,791.96,3,2024-03-18 00:00:00
+95,Tablet,Gadgets,788.3,6,2024-06-30 00:00:00
+96,Laptop,Gadgets,678.71,1,2024-06-09 00:00:00
+97,Mouse,Office Supplies,1328.51,7,2024-02-20 00:00:00
+98,Smartwatch,Accessories,714.66,1,2024-06-19 00:00:00
+99,Mouse,Electronics,917.05,7,2024-02-13 00:00:00
+100,Smartphone,Electronics,1051.9,6,2024-05-27 00:00:00
+101,Printer,Accessories,388.52,3,2024-01-04 00:00:00
+102,Smartwatch,Electronics,607.77,2,2024-01-28 00:00:00
+103,Printer,Gadgets,501.68,7,2024-07-12 00:00:00
+104,Keyboard,Gadgets,1008.29,6,2024-08-02 00:00:00
+105,Headphones,Gadgets,223.17,5,2024-07-14 00:00:00
+106,Keyboard,Gadgets,115.91,1,2024-07-28 00:00:00
+107,Laptop,Gadgets,663.96,6,2024-01-30 00:00:00
+108,Camera,Accessories,1455.74,9,2024-02-01 00:00:00
+109,Keyboard,Electronics,1253.51,9,2024-02-18 00:00:00
+110,Keyboard,Accessories,1187.91,9,2024-01-24 00:00:00
+111,Headphones,Gadgets,433.64,2,2024-02-10 00:00:00
+112,Mouse,Accessories,858.87,7,2024-08-09 00:00:00
+113,Smartwatch,Electronics,330.48,1,2024-05-01 00:00:00
+114,Headphones,Electronics,1458.64,9,2024-01-02 00:00:00
+115,Monitor,Accessories,474.39,1,2024-08-11 00:00:00
+116,Smartphone,Electronics,584.59,3,2024-04-02 00:00:00
+117,Camera,Office Supplies,590.03,2,2024-02-19 00:00:00
+118,Mouse,Office Supplies,336.73,4,2024-05-14 00:00:00
+119,Monitor,Gadgets,1094.87,7,2024-06-08 00:00:00
+120,Tablet,Gadgets,745.75,6,2024-02-20 00:00:00
+121,Camera,Accessories,770.97,8,2024-07-26 00:00:00
+122,Smartwatch,Electronics,608.34,7,2024-02-20 00:00:00
+123,Camera,Office Supplies,889.69,1,2024-02-22 00:00:00
+124,Smartphone,Electronics,1355.04,9,2024-01-03 00:00:00
+125,Keyboard,Electronics,1217.1,2,2024-02-05 00:00:00
+126,Mouse,Electronics,1478.4,3,2024-03-02 00:00:00
+127,Headphones,Gadgets,251.61,5,2024-06-22 00:00:00
+128,Camera,Office Supplies,1480.38,10,2024-08-13 00:00:00
+129,Monitor,Gadgets,861.98,8,2024-08-20 00:00:00
+130,Laptop,Accessories,1204.56,7,2024-05-09 00:00:00
+131,Smartphone,Gadgets,884.89,3,2024-07-01 00:00:00
+132,Laptop,Electronics,20.9,10,2024-05-02 00:00:00
+133,Mouse,Office Supplies,196.5,8,2024-01-18 00:00:00
+134,Smartwatch,Electronics,137.36,4,2024-08-03 00:00:00
+135,Monitor,Accessories,374.32,10,2024-05-10 00:00:00
+136,Smartphone,Gadgets,269.66,3,2024-08-31 00:00:00
+137,Tablet,Accessories,681.13,6,2024-04-15 00:00:00
+138,Laptop,Gadgets,486.27,5,2024-05-01 00:00:00
+139,Printer,Gadgets,1369.46,4,2024-03-05 00:00:00
+140,Mouse,Gadgets,1015.57,8,2024-01-15 00:00:00
+141,Mouse,Electronics,928.04,5,2024-02-11 00:00:00
+142,Mouse,Office Supplies,773.86,9,2024-01-08 00:00:00
+143,Smartphone,Electronics,97.13,4,2024-01-06 00:00:00
+144,Tablet,Electronics,1196.56,4,2024-07-25 00:00:00
+145,Mouse,Office Supplies,963.67,9,2024-02-06 00:00:00
+146,Keyboard,Electronics,289.63,7,2024-07-21 00:00:00
+147,Laptop,Gadgets,1399.22,7,2024-03-08 00:00:00
+148,Smartwatch,Office Supplies,733.91,8,2024-08-15 00:00:00
+149,Mouse,Accessories,93.32,5,2024-05-02 00:00:00
+150,Monitor,Gadgets,767.09,7,2024-01-22 00:00:00
+151,Printer,Accessories,1485.5,5,2024-04-25 00:00:00
+152,Camera,Gadgets,1207.02,5,2024-08-11 00:00:00
+153,Tablet,Office Supplies,819.71,1,2024-03-20 00:00:00
+154,Camera,Office Supplies,1191.82,9,2024-04-07 00:00:00
+155,Keyboard,Accessories,1201.06,2,2024-01-20 00:00:00
+156,Headphones,Electronics,1353.81,4,2024-08-03 00:00:00
+157,Mouse,Accessories,1473.38,4,2024-01-30 00:00:00
+158,Smartwatch,Office Supplies,744.05,3,2024-08-28 00:00:00
+159,Printer,Office Supplies,301.91,3,2024-07-25 00:00:00
+160,Monitor,Office Supplies,185.15,9,2024-05-04 00:00:00
+161,Printer,Accessories,458.47,4,2024-08-23 00:00:00
+162,Laptop,Electronics,302.65,1,2024-04-19 00:00:00
+163,Headphones,Office Supplies,620.41,9,2024-05-20 00:00:00
+164,Keyboard,Office Supplies,1195.78,9,2024-03-05 00:00:00
+165,Monitor,Gadgets,350.81,8,2024-09-01 00:00:00
+166,Laptop,Accessories,1306.52,3,2024-03-04 00:00:00
+167,Headphones,Office Supplies,651.66,8,2024-01-04 00:00:00
+168,Camera,Gadgets,1419.88,8,2024-07-22 00:00:00
+169,Monitor,Accessories,1307.25,4,2024-07-12 00:00:00
+170,Smartwatch,Office Supplies,347.95,7,2024-03-03 00:00:00
+171,Smartwatch,Electronics,976.78,3,2024-04-15 00:00:00
+172,Smartphone,Gadgets,39.32,10,2024-05-08 00:00:00
+173,Camera,Electronics,40.12,3,2024-01-18 00:00:00
+174,Smartphone,Accessories,1062.61,2,2024-08-11 00:00:00
+175,Laptop,Accessories,1015.19,3,2024-04-21 00:00:00
+176,Headphones,Electronics,780.5,5,2024-08-15 00:00:00
+177,Smartphone,Gadgets,622.94,1,2024-06-16 00:00:00
+178,Monitor,Office Supplies,400.22,7,2024-06-15 00:00:00
+179,Smartwatch,Accessories,748.41,10,2024-02-14 00:00:00
+180,Laptop,Gadgets,692.46,5,2024-02-21 00:00:00
+181,Laptop,Office Supplies,144.33,3,2024-07-21 00:00:00
+182,Smartphone,Accessories,723.07,5,2024-07-27 00:00:00
+183,Smartwatch,Gadgets,1127.3,8,2024-07-25 00:00:00
+184,Smartphone,Electronics,1483.03,6,2024-03-13 00:00:00
+185,Keyboard,Gadgets,143.01,5,2024-06-18 00:00:00
+186,Laptop,Office Supplies,261.38,7,2024-07-04 00:00:00
+187,Printer,Electronics,1312.4,4,2024-04-19 00:00:00
+188,Camera,Office Supplies,1222.89,9,2024-04-03 00:00:00
+189,Keyboard,Electronics,1040.4,4,2024-06-13 00:00:00
+190,Smartphone,Electronics,434.44,7,2024-08-04 00:00:00
+191,Printer,Accessories,572.1,5,2024-05-08 00:00:00
+192,Smartwatch,Accessories,70.16,2,2024-05-10 00:00:00
+193,Mouse,Gadgets,1021.11,10,2024-04-04 00:00:00
+194,Keyboard,Electronics,587.37,8,2024-01-15 00:00:00
+195,Camera,Office Supplies,208.14,7,2024-06-07 00:00:00
+196,Camera,Office Supplies,1033.6,8,2024-05-04 00:00:00
+197,Keyboard,Office Supplies,469.54,7,2024-06-17 00:00:00
+198,Camera,Electronics,520.36,10,2024-01-27 00:00:00
+199,Monitor,Office Supplies,696.07,2,2024-04-02 00:00:00
+200,Camera,Electronics,1006.32,7,2024-05-27 00:00:00
+201,Printer,Electronics,461.38,10,2024-02-17 00:00:00
+202,Laptop,Office Supplies,755.94,3,2024-03-11 00:00:00
+203,Smartphone,Electronics,1382.48,5,2024-04-01 00:00:00
+204,Smartphone,Accessories,874.99,3,2024-02-06 00:00:00
+205,Printer,Office Supplies,284.96,10,2024-02-11 00:00:00
+206,Monitor,Office Supplies,828.17,5,2024-07-18 00:00:00
+207,Monitor,Gadgets,963.2,4,2024-05-22 00:00:00
+208,Mouse,Gadgets,553.31,10,2024-08-10 00:00:00
+209,Headphones,Electronics,1064.5,3,2024-04-09 00:00:00
+210,Smartwatch,Gadgets,799.54,8,2024-05-30 00:00:00
+211,Laptop,Electronics,372.92,6,2024-08-26 00:00:00
+212,Tablet,Office Supplies,540.83,6,2024-03-28 00:00:00
+213,Camera,Electronics,211.48,7,2024-01-05 00:00:00
+214,Keyboard,Gadgets,481.17,7,2024-03-17 00:00:00
+215,Smartwatch,Office Supplies,997.22,2,2024-03-15 00:00:00
+216,Smartphone,Office Supplies,681.39,7,2024-01-15 00:00:00
+217,Tablet,Electronics,939.24,2,2024-04-11 00:00:00
+218,Printer,Accessories,1176.79,1,2024-02-09 00:00:00
+219,Smartphone,Office Supplies,567.7,1,2024-05-23 00:00:00
+220,Tablet,Electronics,1215.47,4,2024-08-24 00:00:00
+221,Keyboard,Gadgets,309.75,3,2024-03-26 00:00:00
+222,Tablet,Accessories,459.16,7,2024-02-04 00:00:00
+223,Camera,Electronics,294.18,4,2024-01-15 00:00:00
+224,Headphones,Office Supplies,1140.73,10,2024-05-27 00:00:00
+225,Smartphone,Electronics,1461.15,9,2024-07-09 00:00:00
+226,Keyboard,Electronics,327.52,5,2024-04-27 00:00:00
+227,Smartphone,Accessories,1482.14,2,2024-08-20 00:00:00
+228,Monitor,Electronics,324.63,5,2024-05-16 00:00:00
+229,Printer,Electronics,138.19,3,2024-05-05 00:00:00
+230,Tablet,Gadgets,1346.96,1,2024-05-28 00:00:00
+231,Printer,Electronics,399.14,10,2024-07-23 00:00:00
+232,Headphones,Electronics,830.94,5,2024-06-11 00:00:00
+233,Smartphone,Electronics,522.63,4,2024-08-30 00:00:00
+234,Monitor,Gadgets,437.16,4,2024-07-19 00:00:00
+235,Keyboard,Gadgets,463.3,9,2024-01-13 00:00:00
+236,Laptop,Gadgets,1419.02,3,2024-06-01 00:00:00
+237,Laptop,Electronics,539.37,1,2024-06-30 00:00:00
+238,Mouse,Accessories,239.64,7,2024-03-24 00:00:00
+239,Smartwatch,Electronics,238.91,5,2024-07-17 00:00:00
+240,Keyboard,Accessories,907.56,5,2024-02-05 00:00:00
+241,Smartphone,Accessories,1093.45,7,2024-06-30 00:00:00
+242,Camera,Electronics,1445.88,9,2024-08-20 00:00:00
+243,Monitor,Office Supplies,1449.37,3,2024-06-01 00:00:00
+244,Monitor,Office Supplies,601.4,9,2024-08-08 00:00:00
+245,Printer,Accessories,1301.37,1,2024-08-03 00:00:00
+246,Keyboard,Office Supplies,334.07,8,2024-02-06 00:00:00
+247,Smartphone,Gadgets,941.56,2,2024-05-17 00:00:00
+248,Keyboard,Office Supplies,67.2,6,2024-06-04 00:00:00
+249,Laptop,Office Supplies,631.97,9,2024-06-06 00:00:00
+250,Tablet,Accessories,1485.38,7,2024-01-03 00:00:00
+251,Printer,Office Supplies,1474.09,8,2024-01-19 00:00:00
+252,Smartwatch,Accessories,527.73,3,2024-03-21 00:00:00
+253,Smartwatch,Accessories,349.22,3,2024-05-07 00:00:00
+254,Smartwatch,Office Supplies,1060.44,9,2024-08-14 00:00:00
+255,Printer,Electronics,463.96,10,2024-08-08 00:00:00
+256,Camera,Electronics,456.42,7,2024-02-15 00:00:00
+257,Tablet,Office Supplies,1467.21,4,2024-06-16 00:00:00
+258,Mouse,Office Supplies,274.33,10,2024-07-07 00:00:00
+259,Monitor,Accessories,877.03,5,2024-01-08 00:00:00
+260,Laptop,Electronics,258.4,2,2024-04-16 00:00:00
+261,Laptop,Accessories,192.13,7,2024-05-27 00:00:00
+262,Printer,Office Supplies,764.81,8,2024-06-01 00:00:00
+263,Tablet,Office Supplies,733.58,2,2024-06-12 00:00:00
+264,Mouse,Gadgets,1261.25,3,2024-02-09 00:00:00
+265,Laptop,Electronics,452.72,7,2024-05-07 00:00:00
+266,Printer,Office Supplies,238.82,7,2024-01-11 00:00:00
+267,Monitor,Accessories,913.47,5,2024-02-14 00:00:00
+268,Keyboard,Gadgets,1011.8,10,2024-06-21 00:00:00
+269,Camera,Accessories,756.62,4,2024-02-17 00:00:00
+270,Smartphone,Gadgets,1131.24,3,2024-06-27 00:00:00
+271,Smartwatch,Office Supplies,399.65,7,2024-05-31 00:00:00
+272,Camera,Office Supplies,241.09,9,2024-02-07 00:00:00
+273,Smartwatch,Gadgets,1368.71,2,2024-03-15 00:00:00
+274,Laptop,Accessories,1135.18,1,2024-02-11 00:00:00
+275,Monitor,Accessories,931.35,10,2024-04-23 00:00:00
+276,Smartwatch,Gadgets,136.37,6,2024-03-24 00:00:00
+277,Smartwatch,Office Supplies,498.78,3,2024-05-29 00:00:00
+278,Laptop,Electronics,1017.67,9,2024-06-12 00:00:00
+279,Mouse,Gadgets,1174.78,8,2024-05-04 00:00:00
+280,Printer,Office Supplies,109.2,10,2024-03-07 00:00:00
+281,Tablet,Accessories,1010.88,3,2024-01-23 00:00:00
+282,Keyboard,Office Supplies,666.35,7,2024-03-30 00:00:00
+283,Printer,Accessories,1357.88,1,2024-04-16 00:00:00
+284,Keyboard,Electronics,285.45,9,2024-01-12 00:00:00
+285,Keyboard,Gadgets,1426.13,3,2024-08-30 00:00:00
+286,Laptop,Office Supplies,1345.8,5,2024-08-24 00:00:00
+287,Monitor,Electronics,1293.38,1,2024-06-13 00:00:00
+288,Smartwatch,Accessories,778.88,5,2024-04-16 00:00:00
+289,Headphones,Office Supplies,1385.61,3,2024-03-26 00:00:00
+290,Camera,Office Supplies,63.37,4,2024-02-26 00:00:00
+291,Printer,Electronics,805.85,1,2024-03-31 00:00:00
+292,Headphones,Office Supplies,1070.42,5,2024-06-06 00:00:00
+293,Smartwatch,Gadgets,643.66,4,2024-04-04 00:00:00
+294,Printer,Office Supplies,94.34,4,2024-03-14 00:00:00
+295,Monitor,Electronics,449.97,1,2024-01-31 00:00:00
+296,Laptop,Accessories,1400.89,3,2024-06-08 00:00:00
+297,Camera,Accessories,257.14,9,2024-05-06 00:00:00
+298,Monitor,Accessories,1022.14,9,2024-04-06 00:00:00
+299,Monitor,Accessories,457.41,10,2024-01-11 00:00:00
+300,Keyboard,Electronics,1441.8,1,2024-03-08 00:00:00
+301,Printer,Gadgets,1051.39,6,2024-03-30 00:00:00
+302,Camera,Office Supplies,789.12,9,2024-06-01 00:00:00
+303,Tablet,Accessories,712.84,4,2024-03-06 00:00:00
+304,Keyboard,Office Supplies,504.41,10,2024-05-12 00:00:00
+305,Laptop,Accessories,785.45,5,2024-08-27 00:00:00
+306,Mouse,Electronics,303.09,5,2024-01-20 00:00:00
+307,Printer,Gadgets,159.91,4,2024-01-25 00:00:00
+308,Headphones,Gadgets,1038.36,9,2024-05-31 00:00:00
+309,Headphones,Office Supplies,890.86,9,2024-02-03 00:00:00
+310,Keyboard,Office Supplies,1469.0,4,2024-02-25 00:00:00
+311,Printer,Gadgets,146.54,1,2024-03-02 00:00:00
+312,Printer,Office Supplies,1303.09,10,2024-06-13 00:00:00
+313,Smartphone,Gadgets,670.32,5,2024-08-26 00:00:00
+314,Monitor,Accessories,438.46,5,2024-06-08 00:00:00
+315,Keyboard,Gadgets,515.73,4,2024-08-10 00:00:00
+316,Smartphone,Office Supplies,223.98,2,2024-04-06 00:00:00
+317,Smartphone,Office Supplies,1195.48,6,2024-08-30 00:00:00
+318,Laptop,Electronics,165.65,6,2024-02-14 00:00:00
+319,Tablet,Electronics,1440.05,5,2024-08-19 00:00:00
+320,Smartwatch,Electronics,1142.91,8,2024-04-17 00:00:00
+321,Monitor,Electronics,346.48,1,2024-07-10 00:00:00
+322,Smartphone,Accessories,813.67,4,2024-03-22 00:00:00
+323,Smartwatch,Accessories,1131.84,8,2024-03-26 00:00:00
+324,Monitor,Office Supplies,1250.05,2,2024-02-16 00:00:00
+325,Laptop,Accessories,1119.08,2,2024-01-14 00:00:00
+326,Monitor,Office Supplies,602.56,10,2024-06-12 00:00:00
+327,Camera,Electronics,490.8,9,2024-03-27 00:00:00
+328,Headphones,Accessories,678.66,1,2024-02-11 00:00:00
+329,Laptop,Electronics,277.02,2,2024-01-20 00:00:00
+330,Tablet,Office Supplies,103.06,10,2024-05-13 00:00:00
+331,Printer,Gadgets,614.69,6,2024-04-17 00:00:00
+332,Tablet,Office Supplies,1189.58,7,2024-05-16 00:00:00
+333,Keyboard,Electronics,423.13,7,2024-04-13 00:00:00
+334,Smartwatch,Electronics,343.07,1,2024-01-09 00:00:00
+335,Mouse,Accessories,110.34,10,2024-01-30 00:00:00
+336,Monitor,Accessories,987.26,1,2024-01-06 00:00:00
+337,Smartwatch,Gadgets,586.28,10,2024-05-14 00:00:00
+338,Smartwatch,Electronics,1230.61,4,2024-01-16 00:00:00
+339,Tablet,Accessories,696.1,10,2024-07-03 00:00:00
+340,Camera,Electronics,529.76,10,2024-06-10 00:00:00
+341,Headphones,Accessories,235.46,6,2024-09-01 00:00:00
+342,Mouse,Office Supplies,1072.81,1,2024-02-09 00:00:00
+343,Keyboard,Electronics,1160.33,6,2024-06-25 00:00:00
+344,Printer,Office Supplies,345.2,4,2024-06-10 00:00:00
+345,Headphones,Office Supplies,890.1,3,2024-06-17 00:00:00
+346,Headphones,Gadgets,495.73,4,2024-03-13 00:00:00
+347,Monitor,Accessories,1445.47,1,2024-07-29 00:00:00
+348,Keyboard,Accessories,1227.79,5,2024-07-01 00:00:00
+349,Keyboard,Electronics,277.62,1,2024-05-08 00:00:00
+350,Monitor,Office Supplies,159.8,6,2024-02-17 00:00:00
+351,Headphones,Gadgets,301.54,5,2024-06-16 00:00:00
+352,Printer,Gadgets,53.05,1,2024-06-26 00:00:00
+353,Smartphone,Office Supplies,1102.73,7,2024-03-24 00:00:00
+354,Smartwatch,Accessories,919.9,9,2024-05-22 00:00:00
+355,Camera,Accessories,1226.68,10,2024-05-19 00:00:00
+356,Keyboard,Electronics,1369.58,8,2024-08-02 00:00:00
+357,Headphones,Office Supplies,179.28,10,2024-07-20 00:00:00
+358,Printer,Electronics,1126.87,6,2024-08-23 00:00:00
+359,Camera,Office Supplies,922.01,4,2024-06-23 00:00:00
+360,Headphones,Gadgets,102.35,10,2024-06-07 00:00:00
+361,Smartphone,Office Supplies,590.7,7,2024-02-23 00:00:00
+362,Mouse,Gadgets,159.55,2,2024-06-08 00:00:00
+363,Mouse,Office Supplies,1222.48,9,2024-08-07 00:00:00
+364,Smartphone,Electronics,1326.65,5,2024-07-13 00:00:00
+365,Tablet,Gadgets,1122.26,1,2024-01-06 00:00:00
+366,Keyboard,Accessories,145.73,7,2024-06-20 00:00:00
+367,Smartwatch,Office Supplies,1386.22,5,2024-08-21 00:00:00
+368,Smartwatch,Office Supplies,252.16,4,2024-06-25 00:00:00
+369,Mouse,Gadgets,420.95,2,2024-04-01 00:00:00
+370,Tablet,Gadgets,677.71,4,2024-05-26 00:00:00
+371,Laptop,Gadgets,1003.21,3,2024-05-24 00:00:00
+372,Tablet,Accessories,258.36,2,2024-03-07 00:00:00
+373,Keyboard,Electronics,624.09,6,2024-05-27 00:00:00
+374,Printer,Accessories,177.34,5,2024-08-31 00:00:00
+375,Smartwatch,Office Supplies,1033.13,10,2024-01-05 00:00:00
+376,Monitor,Gadgets,585.34,9,2024-08-09 00:00:00
+377,Smartwatch,Electronics,490.72,4,2024-01-04 00:00:00
+378,Mouse,Accessories,791.7,10,2024-01-14 00:00:00
+379,Keyboard,Electronics,1264.5,9,2024-05-11 00:00:00
+380,Keyboard,Gadgets,946.54,10,2024-03-14 00:00:00
+381,Laptop,Office Supplies,725.28,9,2024-02-05 00:00:00
+382,Monitor,Electronics,1140.6,1,2024-03-27 00:00:00
+383,Headphones,Electronics,479.25,10,2024-07-18 00:00:00
+384,Tablet,Electronics,1341.71,10,2024-05-29 00:00:00
+385,Printer,Gadgets,334.46,1,2024-07-24 00:00:00
+386,Smartphone,Office Supplies,72.28,5,2024-05-29 00:00:00
+387,Laptop,Electronics,456.96,8,2024-07-03 00:00:00
+388,Smartphone,Accessories,967.35,3,2024-01-23 00:00:00
+389,Printer,Electronics,213.44,10,2024-07-03 00:00:00
+390,Smartwatch,Accessories,949.93,2,2024-05-02 00:00:00
+391,Keyboard,Office Supplies,151.66,5,2024-07-31 00:00:00
+392,Headphones,Office Supplies,87.47,4,2024-04-19 00:00:00
+393,Smartwatch,Office Supplies,239.09,4,2024-03-09 00:00:00
+394,Laptop,Accessories,628.79,7,2024-03-12 00:00:00
+395,Headphones,Office Supplies,815.57,9,2024-06-01 00:00:00
+396,Monitor,Gadgets,1213.37,2,2024-08-11 00:00:00
+397,Smartwatch,Electronics,373.74,10,2024-05-15 00:00:00
+398,Smartwatch,Office Supplies,808.64,1,2024-01-09 00:00:00
+399,Laptop,Office Supplies,1485.14,6,2024-06-02 00:00:00
+400,Tablet,Accessories,723.58,7,2024-03-04 00:00:00
+401,Camera,Accessories,457.03,4,2024-08-29 00:00:00
+402,Laptop,Accessories,1195.14,4,2024-07-22 00:00:00
+403,Tablet,Accessories,836.79,10,2024-03-17 00:00:00
+404,Smartphone,Office Supplies,92.47,1,2024-07-01 00:00:00
+405,Laptop,Gadgets,627.88,1,2024-01-25 00:00:00
+406,Laptop,Office Supplies,51.31,9,2024-07-05 00:00:00
+407,Camera,Accessories,514.75,9,2024-03-05 00:00:00
+408,Monitor,Office Supplies,1004.8,9,2024-02-01 00:00:00
+409,Mouse,Gadgets,1145.47,10,2024-04-18 00:00:00
+410,Monitor,Electronics,35.59,9,2024-04-18 00:00:00
+411,Printer,Office Supplies,1273.59,9,2024-08-02 00:00:00
+412,Smartwatch,Office Supplies,1386.44,7,2024-08-09 00:00:00
+413,Headphones,Electronics,891.21,9,2024-03-23 00:00:00
+414,Laptop,Office Supplies,543.94,3,2024-07-13 00:00:00
+415,Camera,Accessories,1478.67,3,2024-08-15 00:00:00
+416,Keyboard,Accessories,711.93,1,2024-08-14 00:00:00
+417,Camera,Electronics,626.26,4,2024-06-30 00:00:00
+418,Smartwatch,Electronics,1237.34,4,2024-04-25 00:00:00
+419,Camera,Accessories,222.21,8,2024-07-31 00:00:00
+420,Printer,Office Supplies,1445.44,8,2024-06-27 00:00:00
+421,Tablet,Office Supplies,1390.66,3,2024-03-04 00:00:00
+422,Printer,Accessories,906.66,10,2024-01-30 00:00:00
+423,Smartphone,Electronics,927.06,9,2024-01-13 00:00:00
+424,Tablet,Gadgets,1237.61,8,2024-02-07 00:00:00
+425,Tablet,Electronics,254.3,1,2024-07-11 00:00:00
+426,Mouse,Gadgets,1316.2,9,2024-03-19 00:00:00
+427,Printer,Accessories,1312.13,6,2024-02-20 00:00:00
+428,Smartwatch,Accessories,527.29,9,2024-01-13 00:00:00
+429,Camera,Accessories,785.92,3,2024-09-01 00:00:00
+430,Monitor,Electronics,958.86,10,2024-07-31 00:00:00
+431,Camera,Office Supplies,88.49,6,2024-06-01 00:00:00
+432,Headphones,Office Supplies,662.11,7,2024-04-16 00:00:00
+433,Laptop,Gadgets,1367.63,7,2024-08-24 00:00:00
+434,Monitor,Electronics,187.44,8,2024-05-26 00:00:00
+435,Smartwatch,Electronics,916.3,4,2024-07-14 00:00:00
+436,Headphones,Accessories,1427.91,4,2024-06-04 00:00:00
+437,Laptop,Electronics,1219.15,1,2024-05-03 00:00:00
+438,Headphones,Electronics,1027.33,5,2024-05-28 00:00:00
+439,Smartwatch,Gadgets,1398.37,9,2024-02-13 00:00:00
+440,Monitor,Gadgets,715.56,7,2024-02-13 00:00:00
+441,Headphones,Accessories,545.69,2,2024-01-27 00:00:00
+442,Smartwatch,Office Supplies,1062.21,4,2024-05-13 00:00:00
+443,Printer,Electronics,89.59,8,2024-03-27 00:00:00
+444,Keyboard,Electronics,617.91,10,2024-08-28 00:00:00
+445,Laptop,Office Supplies,1450.98,9,2024-06-04 00:00:00
+446,Printer,Office Supplies,632.53,1,2024-02-27 00:00:00
+447,Camera,Electronics,282.68,3,2024-08-18 00:00:00
+448,Printer,Accessories,469.38,4,2024-02-22 00:00:00
+449,Tablet,Gadgets,681.94,3,2024-08-06 00:00:00
+450,Printer,Office Supplies,1037.92,5,2024-07-01 00:00:00
+451,Printer,Office Supplies,404.9,7,2024-06-24 00:00:00
+452,Printer,Electronics,329.19,7,2024-02-20 00:00:00
+453,Mouse,Electronics,1152.22,3,2024-05-05 00:00:00
+454,Camera,Office Supplies,645.28,7,2024-07-14 00:00:00
+455,Headphones,Office Supplies,1413.17,4,2024-07-26 00:00:00
+456,Smartphone,Accessories,549.34,1,2024-08-31 00:00:00
+457,Printer,Gadgets,675.4,1,2024-02-10 00:00:00
+458,Camera,Gadgets,844.99,3,2024-08-10 00:00:00
+459,Keyboard,Office Supplies,579.35,10,2024-01-19 00:00:00
+460,Laptop,Office Supplies,1388.82,3,2024-06-01 00:00:00
+461,Printer,Electronics,1013.28,7,2024-02-03 00:00:00
+462,Smartphone,Gadgets,252.32,9,2024-01-23 00:00:00
+463,Mouse,Gadgets,30.25,5,2024-02-02 00:00:00
+464,Camera,Office Supplies,813.51,10,2024-07-12 00:00:00
+465,Headphones,Office Supplies,751.82,10,2024-03-02 00:00:00
+466,Monitor,Electronics,1007.39,8,2024-03-11 00:00:00
+467,Monitor,Office Supplies,179.01,3,2024-05-30 00:00:00
+468,Laptop,Office Supplies,1094.71,4,2024-01-26 00:00:00
+469,Mouse,Office Supplies,995.3,7,2024-01-20 00:00:00
+470,Camera,Electronics,273.65,6,2024-06-30 00:00:00
+471,Keyboard,Gadgets,1185.67,5,2024-03-21 00:00:00
+472,Monitor,Gadgets,1149.67,6,2024-07-30 00:00:00
+473,Monitor,Electronics,1122.67,7,2024-05-14 00:00:00
+474,Keyboard,Electronics,378.23,8,2024-02-27 00:00:00
+475,Laptop,Gadgets,407.56,2,2024-07-15 00:00:00
+476,Smartphone,Office Supplies,1215.0,4,2024-05-27 00:00:00
+477,Laptop,Office Supplies,304.97,2,2024-05-08 00:00:00
+478,Monitor,Gadgets,164.03,5,2024-04-02 00:00:00
+479,Monitor,Accessories,401.44,6,2024-03-17 00:00:00
+480,Smartwatch,Electronics,1269.8,3,2024-03-18 00:00:00
+481,Smartwatch,Gadgets,1084.38,5,2024-07-16 00:00:00
+482,Tablet,Office Supplies,841.27,4,2024-06-06 00:00:00
+483,Keyboard,Office Supplies,890.4,4,2024-06-22 00:00:00
+484,Keyboard,Accessories,409.99,7,2024-06-07 00:00:00
+485,Smartphone,Electronics,812.61,4,2024-04-28 00:00:00
+486,Camera,Office Supplies,776.16,10,2024-06-04 00:00:00
+487,Headphones,Gadgets,777.77,10,2024-06-03 00:00:00
+488,Keyboard,Office Supplies,991.68,4,2024-08-27 00:00:00
+489,Smartphone,Accessories,1289.09,7,2024-08-03 00:00:00
+490,Keyboard,Electronics,91.66,8,2024-08-25 00:00:00
+491,Keyboard,Accessories,314.6,7,2024-08-25 00:00:00
+492,Camera,Gadgets,1204.93,9,2024-03-13 00:00:00
+493,Smartwatch,Accessories,240.6,6,2024-07-29 00:00:00
+494,Keyboard,Office Supplies,206.09,10,2024-01-01 00:00:00
+495,Smartwatch,Gadgets,369.99,4,2024-06-02 00:00:00
+496,Printer,Gadgets,729.44,6,2024-03-08 00:00:00
+497,Printer,Gadgets,395.31,7,2024-04-29 00:00:00
+498,Monitor,Office Supplies,1345.72,3,2024-01-08 00:00:00
+499,Tablet,Accessories,1321.88,2,2024-07-28 00:00:00
+500,Printer,Electronics,816.38,2,2024-02-02 00:00:00
+501,Headphones,Accessories,1034.88,3,2024-04-21 00:00:00
+502,Laptop,Office Supplies,977.51,4,2024-02-17 00:00:00
+503,Smartphone,Accessories,773.06,9,2024-04-20 00:00:00
+504,Headphones,Electronics,817.82,5,2024-04-09 00:00:00
+505,Smartphone,Office Supplies,877.72,8,2024-02-06 00:00:00
+506,Laptop,Accessories,1133.81,4,2024-01-11 00:00:00
+507,Camera,Electronics,280.05,3,2024-08-11 00:00:00
+508,Camera,Gadgets,214.74,3,2024-05-09 00:00:00
+509,Keyboard,Office Supplies,635.53,7,2024-06-09 00:00:00
+510,Keyboard,Electronics,432.25,9,2024-03-04 00:00:00
+511,Smartphone,Accessories,234.01,6,2024-02-03 00:00:00
+512,Laptop,Office Supplies,866.89,5,2024-04-19 00:00:00
+513,Mouse,Electronics,569.56,6,2024-04-28 00:00:00
+514,Smartwatch,Gadgets,657.44,9,2024-08-03 00:00:00
+515,Tablet,Office Supplies,1334.72,4,2024-01-12 00:00:00
+516,Tablet,Electronics,893.85,9,2024-07-27 00:00:00
+517,Mouse,Electronics,744.32,6,2024-04-28 00:00:00
+518,Printer,Gadgets,110.74,1,2024-08-22 00:00:00
+519,Keyboard,Electronics,640.39,2,2024-03-10 00:00:00
+520,Laptop,Gadgets,505.23,10,2024-07-22 00:00:00
+521,Monitor,Accessories,256.5,4,2024-05-20 00:00:00
+522,Laptop,Electronics,601.0,8,2024-07-27 00:00:00
+523,Mouse,Electronics,1064.41,10,2024-06-23 00:00:00
+524,Mouse,Gadgets,1299.81,5,2024-08-24 00:00:00
+525,Headphones,Office Supplies,1086.88,1,2024-03-10 00:00:00
+526,Tablet,Accessories,830.74,6,2024-01-01 00:00:00
+527,Camera,Accessories,1211.41,1,2024-08-13 00:00:00
+528,Monitor,Office Supplies,232.75,1,2024-04-02 00:00:00
+529,Printer,Gadgets,991.06,7,2024-07-12 00:00:00
+530,Mouse,Accessories,1075.93,5,2024-05-29 00:00:00
+531,Smartphone,Office Supplies,414.82,2,2024-08-14 00:00:00
+532,Camera,Accessories,258.37,9,2024-02-19 00:00:00
+533,Mouse,Gadgets,219.14,8,2024-08-25 00:00:00
+534,Tablet,Electronics,326.83,8,2024-06-15 00:00:00
+535,Laptop,Office Supplies,977.34,10,2024-03-27 00:00:00
+536,Smartwatch,Gadgets,635.05,5,2024-03-17 00:00:00
+537,Smartwatch,Electronics,965.75,9,2024-08-15 00:00:00
+538,Monitor,Office Supplies,288.98,4,2024-02-23 00:00:00
+539,Monitor,Office Supplies,454.59,9,2024-02-03 00:00:00
+540,Camera,Accessories,113.04,10,2024-01-29 00:00:00
+541,Monitor,Gadgets,113.07,7,2024-07-20 00:00:00
+542,Monitor,Gadgets,554.74,10,2024-03-31 00:00:00
+543,Tablet,Electronics,311.96,1,2024-07-07 00:00:00
+544,Tablet,Electronics,25.54,6,2024-05-21 00:00:00
+545,Smartwatch,Electronics,1058.67,7,2024-01-09 00:00:00
+546,Keyboard,Accessories,1174.62,1,2024-05-20 00:00:00
+547,Keyboard,Accessories,634.88,10,2024-05-28 00:00:00
+548,Mouse,Electronics,348.29,4,2024-08-12 00:00:00
+549,Headphones,Accessories,1326.3,4,2024-05-28 00:00:00
+550,Laptop,Accessories,22.95,4,2024-04-17 00:00:00
+551,Monitor,Gadgets,1346.83,1,2024-07-10 00:00:00
+552,Mouse,Accessories,638.06,10,2024-08-22 00:00:00
+553,Smartphone,Accessories,1408.62,1,2024-05-20 00:00:00
+554,Laptop,Accessories,572.84,1,2024-01-31 00:00:00
+555,Tablet,Accessories,1389.97,6,2024-09-01 00:00:00
+556,Headphones,Office Supplies,677.3,6,2024-06-22 00:00:00
+557,Smartwatch,Accessories,328.3,1,2024-05-15 00:00:00
+558,Mouse,Electronics,684.48,4,2024-05-10 00:00:00
+559,Printer,Accessories,280.19,3,2024-05-28 00:00:00
+560,Smartwatch,Electronics,944.55,5,2024-05-23 00:00:00
+561,Camera,Electronics,391.77,8,2024-04-09 00:00:00
+562,Laptop,Office Supplies,1106.24,10,2024-01-07 00:00:00
+563,Smartwatch,Electronics,335.0,7,2024-04-18 00:00:00
+564,Headphones,Accessories,890.38,8,2024-02-14 00:00:00
+565,Monitor,Office Supplies,251.65,5,2024-07-06 00:00:00
+566,Camera,Office Supplies,376.45,10,2024-08-07 00:00:00
+567,Keyboard,Electronics,905.03,10,2024-06-10 00:00:00
+568,Headphones,Accessories,607.37,3,2024-07-04 00:00:00
+569,Printer,Office Supplies,1162.17,6,2024-06-30 00:00:00
+570,Printer,Accessories,52.96,3,2024-04-27 00:00:00
+571,Headphones,Electronics,1361.65,8,2024-05-19 00:00:00
+572,Printer,Office Supplies,1006.22,10,2024-03-16 00:00:00
+573,Monitor,Gadgets,428.92,8,2024-06-01 00:00:00
+574,Printer,Accessories,577.78,7,2024-07-15 00:00:00
+575,Printer,Gadgets,770.95,6,2024-05-04 00:00:00
+576,Printer,Electronics,867.14,8,2024-08-16 00:00:00
+577,Printer,Accessories,33.2,3,2024-02-19 00:00:00
+578,Camera,Electronics,792.48,6,2024-02-14 00:00:00
+579,Tablet,Electronics,998.73,3,2024-03-02 00:00:00
+580,Camera,Gadgets,1475.46,2,2024-07-08 00:00:00
+581,Headphones,Gadgets,617.14,2,2024-05-26 00:00:00
+582,Smartwatch,Gadgets,1327.49,7,2024-05-22 00:00:00
+583,Printer,Office Supplies,928.63,4,2024-02-05 00:00:00
+584,Laptop,Office Supplies,402.79,3,2024-04-01 00:00:00
+585,Smartwatch,Office Supplies,550.73,5,2024-02-27 00:00:00
+586,Headphones,Office Supplies,641.85,10,2024-01-02 00:00:00
+587,Keyboard,Gadgets,203.55,3,2024-01-22 00:00:00
+588,Tablet,Office Supplies,1206.13,1,2024-01-26 00:00:00
+589,Camera,Accessories,1080.11,4,2024-06-12 00:00:00
+590,Tablet,Electronics,1377.58,2,2024-08-25 00:00:00
+591,Headphones,Accessories,383.02,8,2024-05-10 00:00:00
+592,Smartwatch,Electronics,474.32,9,2024-02-13 00:00:00
+593,Headphones,Gadgets,1172.4,2,2024-08-30 00:00:00
+594,Tablet,Electronics,144.36,7,2024-06-14 00:00:00
+595,Monitor,Electronics,596.98,2,2024-05-08 00:00:00
+596,Mouse,Electronics,1427.95,10,2024-06-24 00:00:00
+597,Keyboard,Gadgets,743.7,10,2024-04-21 00:00:00
+598,Tablet,Gadgets,527.56,4,2024-06-05 00:00:00
+599,Monitor,Office Supplies,1314.0,10,2024-08-03 00:00:00
+600,Mouse,Gadgets,128.37,5,2024-02-12 00:00:00
+601,Mouse,Electronics,374.8,10,2024-08-02 00:00:00
+602,Printer,Accessories,1416.54,6,2024-06-08 00:00:00
+603,Headphones,Office Supplies,106.58,4,2024-03-18 00:00:00
+604,Tablet,Office Supplies,1308.94,5,2024-02-14 00:00:00
+605,Monitor,Accessories,292.59,2,2024-05-04 00:00:00
+606,Keyboard,Electronics,874.65,6,2024-03-31 00:00:00
+607,Mouse,Electronics,1029.41,3,2024-04-18 00:00:00
+608,Tablet,Office Supplies,861.4,4,2024-06-24 00:00:00
+609,Keyboard,Accessories,389.83,1,2024-02-22 00:00:00
+610,Monitor,Electronics,727.57,10,2024-04-10 00:00:00
+611,Camera,Gadgets,1035.9,8,2024-04-20 00:00:00
+612,Camera,Office Supplies,1371.62,2,2024-03-02 00:00:00
+613,Headphones,Electronics,525.67,9,2024-02-11 00:00:00
+614,Camera,Gadgets,143.65,1,2024-08-19 00:00:00
+615,Tablet,Electronics,944.28,6,2024-08-23 00:00:00
+616,Headphones,Electronics,1268.33,4,2024-08-24 00:00:00
+617,Printer,Gadgets,442.2,7,2024-05-24 00:00:00
+618,Headphones,Electronics,399.69,7,2024-03-07 00:00:00
+619,Monitor,Gadgets,415.61,6,2024-06-02 00:00:00
+620,Smartwatch,Office Supplies,1029.89,2,2024-06-22 00:00:00
+621,Smartphone,Electronics,265.36,8,2024-08-02 00:00:00
+622,Laptop,Accessories,85.4,9,2024-01-18 00:00:00
+623,Camera,Office Supplies,520.85,9,2024-01-30 00:00:00
+624,Smartwatch,Gadgets,782.49,4,2024-05-21 00:00:00
+625,Headphones,Accessories,1166.54,4,2024-08-18 00:00:00
+626,Mouse,Office Supplies,198.37,3,2024-04-26 00:00:00
+627,Keyboard,Office Supplies,503.32,9,2024-07-12 00:00:00
+628,Laptop,Electronics,701.58,9,2024-04-08 00:00:00
+629,Printer,Gadgets,590.57,10,2024-07-27 00:00:00
+630,Smartphone,Accessories,1466.14,8,2024-01-29 00:00:00
+631,Monitor,Office Supplies,1109.89,9,2024-03-11 00:00:00
+632,Headphones,Office Supplies,152.97,2,2024-01-20 00:00:00
+633,Monitor,Gadgets,1041.02,10,2024-04-07 00:00:00
+634,Headphones,Office Supplies,527.04,5,2024-06-05 00:00:00
+635,Mouse,Accessories,901.92,8,2024-03-25 00:00:00
+636,Printer,Office Supplies,652.59,4,2024-03-08 00:00:00
+637,Headphones,Office Supplies,1008.57,10,2024-07-13 00:00:00
+638,Keyboard,Electronics,461.95,4,2024-04-06 00:00:00
+639,Keyboard,Office Supplies,1309.69,4,2024-06-04 00:00:00
+640,Headphones,Electronics,1267.19,10,2024-01-07 00:00:00
+641,Smartphone,Office Supplies,535.22,8,2024-01-25 00:00:00
+642,Keyboard,Office Supplies,697.75,7,2024-05-05 00:00:00
+643,Keyboard,Electronics,254.31,1,2024-04-17 00:00:00
+644,Monitor,Accessories,652.08,6,2024-06-03 00:00:00
+645,Monitor,Gadgets,488.53,7,2024-06-08 00:00:00
+646,Smartwatch,Accessories,778.05,2,2024-07-31 00:00:00
+647,Printer,Electronics,1116.12,4,2024-02-24 00:00:00
+648,Headphones,Electronics,708.8,2,2024-01-17 00:00:00
+649,Keyboard,Office Supplies,1086.07,3,2024-05-27 00:00:00
+650,Headphones,Accessories,1208.24,2,2024-05-07 00:00:00
+651,Smartwatch,Office Supplies,1392.46,10,2024-02-10 00:00:00
+652,Printer,Office Supplies,1014.38,3,2024-08-02 00:00:00
+653,Keyboard,Accessories,688.82,2,2024-03-22 00:00:00
+654,Monitor,Office Supplies,331.45,7,2024-09-01 00:00:00
+655,Smartphone,Accessories,897.2,10,2024-01-30 00:00:00
+656,Smartphone,Accessories,1040.98,2,2024-07-03 00:00:00
+657,Printer,Electronics,382.76,5,2024-02-16 00:00:00
+658,Printer,Electronics,96.79,10,2024-01-05 00:00:00
+659,Mouse,Office Supplies,1266.48,5,2024-08-10 00:00:00
+660,Smartwatch,Office Supplies,1011.79,1,2024-08-18 00:00:00
+661,Camera,Accessories,1269.65,2,2024-06-27 00:00:00
+662,Tablet,Office Supplies,529.67,2,2024-04-02 00:00:00
+663,Smartphone,Office Supplies,970.52,2,2024-08-02 00:00:00
+664,Keyboard,Electronics,737.47,2,2024-07-29 00:00:00
+665,Tablet,Electronics,705.9,10,2024-04-11 00:00:00
+666,Mouse,Accessories,1188.47,7,2024-02-19 00:00:00
+667,Monitor,Gadgets,1006.11,3,2024-01-29 00:00:00
+668,Tablet,Electronics,463.11,3,2024-01-10 00:00:00
+669,Mouse,Gadgets,530.79,4,2024-04-10 00:00:00
+670,Tablet,Gadgets,1427.77,2,2024-01-12 00:00:00
+671,Headphones,Office Supplies,595.95,10,2024-03-27 00:00:00
+672,Smartphone,Accessories,107.29,8,2024-01-24 00:00:00
+673,Printer,Accessories,384.28,4,2024-06-26 00:00:00
+674,Mouse,Electronics,1075.21,5,2024-04-07 00:00:00
+675,Laptop,Accessories,633.29,10,2024-07-21 00:00:00
+676,Keyboard,Accessories,707.24,3,2024-07-22 00:00:00
+677,Mouse,Gadgets,1018.89,6,2024-02-21 00:00:00
+678,Mouse,Electronics,41.3,5,2024-05-28 00:00:00
+679,Mouse,Office Supplies,733.67,9,2024-01-16 00:00:00
+680,Headphones,Office Supplies,1335.89,7,2024-07-03 00:00:00
+681,Mouse,Office Supplies,1150.08,2,2024-01-19 00:00:00
+682,Camera,Office Supplies,819.66,5,2024-07-14 00:00:00
+683,Mouse,Electronics,325.73,8,2024-02-16 00:00:00
+684,Laptop,Gadgets,435.19,1,2024-04-24 00:00:00
+685,Headphones,Electronics,715.35,5,2024-07-20 00:00:00
+686,Smartwatch,Office Supplies,1251.88,7,2024-06-18 00:00:00
+687,Tablet,Office Supplies,462.38,3,2024-02-20 00:00:00
+688,Headphones,Accessories,189.46,3,2024-08-16 00:00:00
+689,Printer,Gadgets,1207.57,5,2024-07-29 00:00:00
+690,Smartphone,Accessories,1205.84,6,2024-08-21 00:00:00
+691,Camera,Electronics,805.63,2,2024-03-16 00:00:00
+692,Keyboard,Electronics,1423.64,4,2024-04-20 00:00:00
+693,Printer,Gadgets,286.21,6,2024-06-07 00:00:00
+694,Smartphone,Accessories,1284.14,4,2024-07-17 00:00:00
+695,Smartphone,Office Supplies,570.24,8,2024-07-16 00:00:00
+696,Headphones,Accessories,22.25,9,2024-01-07 00:00:00
+697,Headphones,Office Supplies,1276.2,1,2024-02-26 00:00:00
+698,Camera,Accessories,130.87,10,2024-06-29 00:00:00
+699,Keyboard,Gadgets,865.99,7,2024-03-10 00:00:00
+700,Camera,Accessories,398.8,5,2024-01-15 00:00:00
+701,Headphones,Accessories,944.14,2,2024-01-21 00:00:00
+702,Monitor,Accessories,1361.15,2,2024-07-24 00:00:00
+703,Smartphone,Gadgets,1209.41,7,2024-07-01 00:00:00
+704,Printer,Accessories,1425.22,8,2024-01-06 00:00:00
+705,Printer,Accessories,1484.51,9,2024-05-25 00:00:00
+706,Printer,Office Supplies,1448.9,6,2024-03-22 00:00:00
+707,Headphones,Gadgets,1090.97,5,2024-08-07 00:00:00
+708,Laptop,Accessories,123.14,9,2024-06-18 00:00:00
+709,Smartwatch,Gadgets,1350.32,4,2024-07-24 00:00:00
+710,Mouse,Electronics,230.38,8,2024-04-28 00:00:00
+711,Camera,Accessories,1485.99,9,2024-01-14 00:00:00
+712,Tablet,Accessories,1198.78,4,2024-07-28 00:00:00
+713,Laptop,Accessories,855.49,3,2024-01-25 00:00:00
+714,Smartwatch,Office Supplies,398.91,10,2024-06-27 00:00:00
+715,Mouse,Gadgets,424.65,6,2024-04-05 00:00:00
+716,Headphones,Electronics,964.48,5,2024-08-11 00:00:00
+717,Camera,Electronics,1272.51,9,2024-01-21 00:00:00
+718,Mouse,Electronics,202.84,2,2024-02-09 00:00:00
+719,Smartphone,Electronics,529.54,10,2024-05-28 00:00:00
+720,Smartphone,Electronics,140.91,10,2024-08-08 00:00:00
+721,Headphones,Accessories,1313.35,10,2024-07-22 00:00:00
+722,Smartphone,Electronics,712.4,7,2024-04-08 00:00:00
+723,Printer,Office Supplies,145.83,2,2024-05-24 00:00:00
+724,Headphones,Office Supplies,585.57,6,2024-07-14 00:00:00
+725,Smartphone,Office Supplies,1296.43,7,2024-06-28 00:00:00
+726,Monitor,Electronics,1143.33,2,2024-02-02 00:00:00
+727,Keyboard,Electronics,1224.8,8,2024-05-19 00:00:00
+728,Keyboard,Gadgets,52.09,5,2024-08-01 00:00:00
+729,Smartphone,Office Supplies,677.31,8,2024-01-12 00:00:00
+730,Printer,Gadgets,54.76,1,2024-04-10 00:00:00
+731,Keyboard,Gadgets,1244.91,7,2024-03-22 00:00:00
+732,Camera,Office Supplies,27.2,10,2024-01-20 00:00:00
+733,Laptop,Office Supplies,693.89,4,2024-05-12 00:00:00
+734,Keyboard,Office Supplies,907.49,8,2024-01-11 00:00:00
+735,Smartphone,Office Supplies,1123.62,9,2024-04-28 00:00:00
+736,Keyboard,Electronics,1120.88,10,2024-03-05 00:00:00
+737,Smartwatch,Electronics,451.64,6,2024-05-12 00:00:00
+738,Keyboard,Office Supplies,397.94,5,2024-01-05 00:00:00
+739,Tablet,Office Supplies,1472.98,7,2024-06-30 00:00:00
+740,Smartphone,Gadgets,1342.52,3,2024-08-11 00:00:00
+741,Keyboard,Accessories,116.55,10,2024-04-14 00:00:00
+742,Printer,Office Supplies,1401.82,10,2024-07-21 00:00:00
+743,Headphones,Electronics,353.52,8,2024-05-14 00:00:00
+744,Headphones,Electronics,256.14,10,2024-07-16 00:00:00
+745,Tablet,Office Supplies,450.15,7,2024-07-21 00:00:00
+746,Headphones,Office Supplies,1371.26,8,2024-05-17 00:00:00
+747,Tablet,Accessories,821.22,4,2024-07-02 00:00:00
+748,Keyboard,Gadgets,685.26,7,2024-04-13 00:00:00
+749,Tablet,Office Supplies,1141.01,3,2024-08-19 00:00:00
+750,Smartphone,Accessories,1317.94,5,2024-08-02 00:00:00
+751,Printer,Office Supplies,932.27,6,2024-05-30 00:00:00
+752,Laptop,Accessories,138.39,9,2024-05-16 00:00:00
+753,Monitor,Office Supplies,67.74,10,2024-08-24 00:00:00
+754,Headphones,Accessories,60.94,5,2024-05-07 00:00:00
+755,Camera,Office Supplies,575.32,9,2024-02-14 00:00:00
+756,Camera,Gadgets,111.94,9,2024-02-08 00:00:00
+757,Smartwatch,Electronics,238.37,9,2024-06-09 00:00:00
+758,Smartphone,Office Supplies,1359.16,10,2024-02-10 00:00:00
+759,Laptop,Accessories,672.05,3,2024-07-20 00:00:00
+760,Laptop,Office Supplies,1293.52,1,2024-07-03 00:00:00
+761,Camera,Accessories,553.56,10,2024-08-02 00:00:00
+762,Mouse,Gadgets,115.84,1,2024-08-03 00:00:00
+763,Smartphone,Electronics,1218.28,5,2024-08-10 00:00:00
+764,Keyboard,Gadgets,1211.16,1,2024-01-20 00:00:00
+765,Smartwatch,Accessories,612.28,2,2024-04-12 00:00:00
+766,Tablet,Accessories,737.66,7,2024-06-04 00:00:00
+767,Tablet,Electronics,1056.83,9,2024-04-02 00:00:00
+768,Monitor,Gadgets,389.31,3,2024-07-07 00:00:00
+769,Mouse,Office Supplies,383.91,1,2024-07-23 00:00:00
+770,Smartwatch,Accessories,181.88,5,2024-06-28 00:00:00
+771,Keyboard,Electronics,562.79,10,2024-05-17 00:00:00
+772,Laptop,Office Supplies,467.03,9,2024-06-20 00:00:00
+773,Printer,Gadgets,1370.78,8,2024-02-02 00:00:00
+774,Monitor,Gadgets,1306.05,8,2024-02-01 00:00:00
+775,Camera,Electronics,452.67,7,2024-06-04 00:00:00
+776,Tablet,Accessories,187.61,1,2024-03-17 00:00:00
+777,Smartphone,Office Supplies,396.4,2,2024-08-17 00:00:00
+778,Headphones,Office Supplies,1295.33,1,2024-08-20 00:00:00
+779,Laptop,Gadgets,205.27,2,2024-02-14 00:00:00
+780,Camera,Office Supplies,978.62,5,2024-03-31 00:00:00
+781,Smartphone,Office Supplies,915.27,1,2024-06-27 00:00:00
+782,Camera,Accessories,1013.65,5,2024-06-29 00:00:00
+783,Smartwatch,Electronics,73.58,8,2024-07-12 00:00:00
+784,Tablet,Gadgets,98.95,3,2024-06-21 00:00:00
+785,Keyboard,Accessories,396.32,8,2024-05-22 00:00:00
+786,Tablet,Accessories,1298.74,6,2024-06-22 00:00:00
+787,Smartphone,Accessories,471.36,9,2024-02-03 00:00:00
+788,Laptop,Accessories,1163.7,2,2024-04-03 00:00:00
+789,Laptop,Accessories,688.46,6,2024-03-22 00:00:00
+790,Tablet,Office Supplies,88.21,5,2024-05-01 00:00:00
+791,Smartwatch,Office Supplies,526.5,9,2024-07-30 00:00:00
+792,Smartphone,Electronics,127.76,9,2024-03-08 00:00:00
+793,Laptop,Office Supplies,334.23,7,2024-07-21 00:00:00
+794,Monitor,Electronics,1448.78,9,2024-01-17 00:00:00
+795,Camera,Accessories,146.37,6,2024-04-04 00:00:00
+796,Tablet,Office Supplies,459.05,1,2024-03-22 00:00:00
+797,Mouse,Electronics,1317.16,9,2024-02-13 00:00:00
+798,Keyboard,Electronics,1237.64,3,2024-05-27 00:00:00
+799,Tablet,Gadgets,72.45,7,2024-05-21 00:00:00
+800,Printer,Office Supplies,1346.27,7,2024-06-11 00:00:00
+801,Smartphone,Office Supplies,138.12,10,2024-06-20 00:00:00
+802,Smartphone,Gadgets,1189.95,1,2024-01-24 00:00:00
+803,Printer,Office Supplies,45.89,6,2024-02-14 00:00:00
+804,Camera,Office Supplies,215.08,6,2024-02-10 00:00:00
+805,Printer,Gadgets,697.09,6,2024-05-29 00:00:00
+806,Smartphone,Electronics,1432.09,7,2024-01-05 00:00:00
+807,Smartwatch,Electronics,836.25,1,2024-01-21 00:00:00
+808,Keyboard,Accessories,728.52,7,2024-02-06 00:00:00
+809,Printer,Accessories,1160.33,3,2024-03-21 00:00:00
+810,Camera,Accessories,1380.37,10,2024-02-23 00:00:00
+811,Tablet,Office Supplies,348.74,10,2024-01-31 00:00:00
+812,Mouse,Gadgets,108.62,4,2024-02-28 00:00:00
+813,Camera,Office Supplies,669.95,7,2024-07-05 00:00:00
+814,Camera,Office Supplies,696.01,10,2024-05-10 00:00:00
+815,Monitor,Gadgets,1369.5,10,2024-01-05 00:00:00
+816,Monitor,Gadgets,166.02,1,2024-04-05 00:00:00
+817,Camera,Electronics,947.48,4,2024-09-01 00:00:00
+818,Smartphone,Electronics,277.83,7,2024-06-18 00:00:00
+819,Monitor,Electronics,733.88,2,2024-02-20 00:00:00
+820,Smartphone,Electronics,1354.39,7,2024-03-30 00:00:00
+821,Mouse,Office Supplies,497.19,7,2024-04-29 00:00:00
+822,Printer,Electronics,1040.06,4,2024-03-16 00:00:00
+823,Monitor,Electronics,309.37,4,2024-02-20 00:00:00
+824,Tablet,Gadgets,902.44,3,2024-04-15 00:00:00
+825,Keyboard,Office Supplies,910.31,3,2024-06-17 00:00:00
+826,Camera,Electronics,1223.37,1,2024-06-30 00:00:00
+827,Keyboard,Gadgets,1471.77,8,2024-01-12 00:00:00
+828,Keyboard,Office Supplies,1287.59,9,2024-02-19 00:00:00
+829,Camera,Gadgets,283.31,4,2024-06-02 00:00:00
+830,Keyboard,Accessories,1242.02,2,2024-06-04 00:00:00
+831,Smartwatch,Electronics,1228.79,7,2024-02-13 00:00:00
+832,Smartwatch,Gadgets,918.15,5,2024-08-05 00:00:00
+833,Laptop,Electronics,972.34,4,2024-07-27 00:00:00
+834,Tablet,Office Supplies,1466.19,8,2024-03-31 00:00:00
+835,Printer,Electronics,1350.3,1,2024-02-19 00:00:00
+836,Monitor,Gadgets,1148.4,9,2024-06-05 00:00:00
+837,Smartphone,Gadgets,30.44,7,2024-02-25 00:00:00
+838,Mouse,Gadgets,1427.0,3,2024-03-05 00:00:00
+839,Keyboard,Electronics,233.11,1,2024-01-09 00:00:00
+840,Smartphone,Electronics,1385.97,8,2024-05-02 00:00:00
+841,Laptop,Office Supplies,1094.92,5,2024-06-10 00:00:00
+842,Tablet,Office Supplies,1104.02,6,2024-08-23 00:00:00
+843,Camera,Gadgets,806.14,2,2024-06-26 00:00:00
+844,Mouse,Office Supplies,1148.28,5,2024-05-06 00:00:00
+845,Smartwatch,Gadgets,202.46,8,2024-07-09 00:00:00
+846,Tablet,Accessories,95.33,7,2024-03-29 00:00:00
+847,Tablet,Gadgets,969.79,3,2024-08-02 00:00:00
+848,Printer,Accessories,965.02,10,2024-02-14 00:00:00
+849,Camera,Gadgets,498.65,6,2024-04-04 00:00:00
+850,Monitor,Office Supplies,458.03,10,2024-08-14 00:00:00
+851,Smartphone,Gadgets,523.81,2,2024-03-10 00:00:00
+852,Smartwatch,Office Supplies,1129.37,3,2024-02-08 00:00:00
+853,Laptop,Office Supplies,29.38,6,2024-02-05 00:00:00
+854,Monitor,Electronics,1021.84,8,2024-03-21 00:00:00
+855,Laptop,Gadgets,199.67,7,2024-06-13 00:00:00
+856,Mouse,Electronics,408.34,3,2024-03-21 00:00:00
+857,Smartphone,Accessories,268.55,4,2024-05-18 00:00:00
+858,Smartwatch,Gadgets,1194.53,3,2024-04-22 00:00:00
+859,Printer,Gadgets,1473.24,9,2024-07-10 00:00:00
+860,Laptop,Office Supplies,1258.87,4,2024-03-17 00:00:00
+861,Laptop,Gadgets,1008.13,4,2024-05-27 00:00:00
+862,Keyboard,Accessories,423.38,7,2024-06-10 00:00:00
+863,Smartwatch,Accessories,1145.21,4,2024-05-25 00:00:00
+864,Keyboard,Electronics,1109.66,8,2024-05-22 00:00:00
+865,Tablet,Office Supplies,1104.23,5,2024-08-25 00:00:00
+866,Mouse,Electronics,1225.71,1,2024-04-04 00:00:00
+867,Headphones,Electronics,668.15,1,2024-08-22 00:00:00
+868,Smartphone,Gadgets,196.31,10,2024-07-26 00:00:00
+869,Mouse,Office Supplies,1132.69,4,2024-07-11 00:00:00
+870,Camera,Gadgets,217.9,7,2024-01-26 00:00:00
+871,Tablet,Gadgets,1239.14,2,2024-05-23 00:00:00
+872,Headphones,Electronics,1002.68,3,2024-07-13 00:00:00
+873,Headphones,Office Supplies,778.28,3,2024-02-12 00:00:00
+874,Laptop,Electronics,1151.73,2,2024-02-18 00:00:00
+875,Mouse,Accessories,934.91,6,2024-06-01 00:00:00
+876,Keyboard,Gadgets,564.93,8,2024-02-10 00:00:00
+877,Printer,Office Supplies,395.46,9,2024-07-08 00:00:00
+878,Headphones,Gadgets,790.06,1,2024-04-19 00:00:00
+879,Camera,Office Supplies,1160.46,10,2024-02-17 00:00:00
+880,Mouse,Electronics,319.76,6,2024-05-27 00:00:00
+881,Monitor,Office Supplies,1012.29,8,2024-08-31 00:00:00
+882,Mouse,Office Supplies,722.09,4,2024-06-19 00:00:00
+883,Camera,Office Supplies,887.83,2,2024-03-24 00:00:00
+884,Smartphone,Electronics,1406.65,8,2024-04-24 00:00:00
+885,Printer,Office Supplies,1361.16,5,2024-05-13 00:00:00
+886,Smartwatch,Office Supplies,301.25,3,2024-08-31 00:00:00
+887,Smartwatch,Accessories,623.58,8,2024-08-17 00:00:00
+888,Camera,Electronics,1182.22,3,2024-03-02 00:00:00
+889,Laptop,Gadgets,337.59,1,2024-07-27 00:00:00
+890,Monitor,Electronics,1092.33,3,2024-04-06 00:00:00
+891,Tablet,Accessories,768.26,2,2024-05-22 00:00:00
+892,Keyboard,Electronics,1225.19,7,2024-07-30 00:00:00
+893,Monitor,Electronics,1454.48,5,2024-03-30 00:00:00
+894,Keyboard,Accessories,53.94,5,2024-04-24 00:00:00
+895,Camera,Accessories,580.41,6,2024-07-14 00:00:00
+896,Headphones,Accessories,312.88,8,2024-03-14 00:00:00
+897,Monitor,Electronics,41.38,1,2024-03-02 00:00:00
+898,Printer,Office Supplies,478.24,6,2024-08-07 00:00:00
+899,Printer,Office Supplies,248.0,6,2024-06-16 00:00:00
+900,Smartwatch,Office Supplies,700.86,10,2024-05-07 00:00:00
+901,Camera,Accessories,798.41,1,2024-08-08 00:00:00
+902,Mouse,Electronics,493.07,10,2024-01-11 00:00:00
+903,Mouse,Electronics,344.13,7,2024-01-03 00:00:00
+904,Monitor,Gadgets,219.33,2,2024-07-19 00:00:00
+905,Monitor,Gadgets,832.7,1,2024-05-12 00:00:00
+906,Tablet,Accessories,300.19,2,2024-08-23 00:00:00
+907,Keyboard,Office Supplies,1449.47,6,2024-01-18 00:00:00
+908,Printer,Office Supplies,139.49,3,2024-02-18 00:00:00
+909,Monitor,Electronics,934.62,5,2024-03-11 00:00:00
+910,Monitor,Electronics,132.7,10,2024-02-19 00:00:00
+911,Headphones,Gadgets,1381.88,4,2024-07-22 00:00:00
+912,Mouse,Office Supplies,883.54,4,2024-03-09 00:00:00
+913,Monitor,Gadgets,1431.83,4,2024-02-08 00:00:00
+914,Mouse,Office Supplies,76.73,1,2024-04-20 00:00:00
+915,Mouse,Office Supplies,947.51,1,2024-06-04 00:00:00
+916,Monitor,Gadgets,156.15,4,2024-04-09 00:00:00
+917,Smartwatch,Gadgets,1382.51,4,2024-06-02 00:00:00
+918,Monitor,Gadgets,108.3,2,2024-02-01 00:00:00
+919,Keyboard,Office Supplies,431.78,2,2024-01-02 00:00:00
+920,Headphones,Gadgets,152.0,8,2024-06-29 00:00:00
+921,Mouse,Accessories,1285.46,5,2024-08-22 00:00:00
+922,Tablet,Electronics,1234.32,6,2024-08-06 00:00:00
+923,Tablet,Accessories,119.65,7,2024-08-26 00:00:00
+924,Mouse,Accessories,934.34,2,2024-07-31 00:00:00
+925,Mouse,Gadgets,781.11,4,2024-05-03 00:00:00
+926,Smartwatch,Gadgets,526.41,3,2024-03-31 00:00:00
+927,Printer,Electronics,958.94,5,2024-05-17 00:00:00
+928,Smartwatch,Gadgets,810.65,3,2024-08-23 00:00:00
+929,Smartwatch,Electronics,922.02,9,2024-05-29 00:00:00
+930,Headphones,Accessories,33.51,10,2024-08-07 00:00:00
+931,Smartwatch,Accessories,885.28,1,2024-08-19 00:00:00
+932,Monitor,Office Supplies,213.51,4,2024-06-27 00:00:00
+933,Mouse,Gadgets,537.6,3,2024-05-08 00:00:00
+934,Smartwatch,Gadgets,911.8,4,2024-04-27 00:00:00
+935,Monitor,Accessories,936.54,3,2024-04-13 00:00:00
+936,Laptop,Office Supplies,474.09,3,2024-01-07 00:00:00
+937,Monitor,Accessories,1183.4,1,2024-04-21 00:00:00
+938,Camera,Gadgets,1378.29,1,2024-05-08 00:00:00
+939,Smartphone,Accessories,1475.94,3,2024-01-19 00:00:00
+940,Tablet,Accessories,598.86,3,2024-03-11 00:00:00
+941,Camera,Electronics,476.11,10,2024-01-01 00:00:00
+942,Smartwatch,Gadgets,1020.67,8,2024-06-25 00:00:00
+943,Laptop,Electronics,968.24,7,2024-02-20 00:00:00
+944,Camera,Electronics,469.99,3,2024-03-13 00:00:00
+945,Camera,Accessories,894.42,5,2024-01-29 00:00:00
+946,Keyboard,Office Supplies,957.34,1,2024-08-31 00:00:00
+947,Laptop,Accessories,1376.52,1,2024-08-09 00:00:00
+948,Monitor,Gadgets,280.0,4,2024-06-12 00:00:00
+949,Laptop,Gadgets,1345.67,1,2024-04-17 00:00:00
+950,Camera,Office Supplies,1362.92,10,2024-08-21 00:00:00
+951,Mouse,Accessories,750.18,1,2024-07-26 00:00:00
+952,Monitor,Gadgets,1428.61,2,2024-08-05 00:00:00
+953,Laptop,Office Supplies,1428.04,2,2024-06-09 00:00:00
+954,Monitor,Office Supplies,1307.05,7,2024-06-14 00:00:00
+955,Printer,Office Supplies,363.33,7,2024-07-17 00:00:00
+956,Printer,Electronics,719.4,7,2024-05-08 00:00:00
+957,Keyboard,Office Supplies,55.51,9,2024-04-28 00:00:00
+958,Keyboard,Office Supplies,663.03,5,2024-06-02 00:00:00
+959,Headphones,Accessories,82.2,8,2024-06-29 00:00:00
+960,Printer,Gadgets,973.25,7,2024-07-31 00:00:00
+961,Keyboard,Office Supplies,1271.91,5,2024-01-15 00:00:00
+962,Mouse,Accessories,352.96,1,2024-03-10 00:00:00
+963,Mouse,Office Supplies,698.51,5,2024-02-14 00:00:00
+964,Tablet,Electronics,227.2,3,2024-03-24 00:00:00
+965,Monitor,Gadgets,1078.31,10,2024-01-05 00:00:00
+966,Smartwatch,Gadgets,1182.57,5,2024-02-24 00:00:00
+967,Printer,Accessories,1250.66,4,2024-08-09 00:00:00
+968,Laptop,Electronics,304.54,8,2024-03-13 00:00:00
+969,Smartphone,Accessories,908.69,9,2024-06-30 00:00:00
+970,Headphones,Accessories,642.95,4,2024-06-18 00:00:00
+971,Headphones,Office Supplies,302.37,8,2024-05-11 00:00:00
+972,Headphones,Accessories,685.47,3,2024-03-26 00:00:00
+973,Monitor,Accessories,408.02,1,2024-01-07 00:00:00
+974,Smartwatch,Office Supplies,111.11,2,2024-04-16 00:00:00
+975,Monitor,Office Supplies,1214.15,3,2024-07-27 00:00:00
+976,Printer,Office Supplies,258.11,6,2024-01-24 00:00:00
+977,Printer,Electronics,814.89,5,2024-02-17 00:00:00
+978,Tablet,Gadgets,135.2,9,2024-05-26 00:00:00
+979,Tablet,Accessories,1293.85,1,2024-03-31 00:00:00
+980,Laptop,Office Supplies,474.61,4,2024-02-12 00:00:00
+981,Camera,Gadgets,385.54,7,2024-08-14 00:00:00
+982,Camera,Accessories,65.42,8,2024-01-14 00:00:00
+983,Laptop,Gadgets,315.81,4,2024-02-29 00:00:00
+984,Monitor,Office Supplies,874.55,4,2024-02-06 00:00:00
+985,Keyboard,Electronics,1406.08,6,2024-04-12 00:00:00
+986,Tablet,Electronics,971.25,6,2024-02-23 00:00:00
+987,Keyboard,Accessories,557.66,2,2024-06-30 00:00:00
+988,Smartphone,Accessories,285.5,6,2024-08-04 00:00:00
+989,Keyboard,Gadgets,309.03,1,2024-01-14 00:00:00
+990,Smartwatch,Accessories,821.0,5,2024-05-02 00:00:00
+991,Monitor,Accessories,1177.33,10,2024-06-17 00:00:00
+992,Tablet,Electronics,320.71,5,2024-07-20 00:00:00
+993,Camera,Accessories,1265.26,4,2024-07-14 00:00:00
+994,Laptop,Electronics,116.16,3,2024-07-02 00:00:00
+995,Smartwatch,Office Supplies,469.61,5,2024-02-10 00:00:00
+996,Headphones,Gadgets,164.77,6,2024-05-10 00:00:00
+997,Smartwatch,Gadgets,1415.93,9,2024-02-05 00:00:00
+998,Headphones,Electronics,885.18,6,2024-04-28 00:00:00
+999,Monitor,Electronics,894.3,1,2024-03-31 00:00:00
+1000,Monitor,Office Supplies,787.83,7,2024-08-27 00:00:00
